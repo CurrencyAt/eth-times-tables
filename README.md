@@ -5,3 +5,5 @@ A very simple Ethereum Solidity and node.js/truffle/web3 program I wrote to begi
 
 The parts of the program are an Ethereum personal blockchain for testing (Ganache), a Truffle application for creating and compiling smart contracts, and a node.js/web3.js web application for creating an interface.
 
+![screen1](/readmefiles/1.png)
+
