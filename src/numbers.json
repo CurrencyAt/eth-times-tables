@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "name": "Two times Two",
+    "picture": "images/0.png",
+    "value": 0
+  },
+  {
+    "id": 1,
+    "name": "2 x 6",
+    "picture": "images/1.png",
+    "value": 1
+  },
+  {
+    "id": 2,
+    "name": "6 * 6",
+    "picture": "images/2.png",
+    "value": 2
+  },
+  {
+    "id": 3,
+    "name": "9 x 8",
+    "picture": "images/3.png",
+    "value": 3
+  },
+  {
+    "id": 4,
+    "name": "10 multiplied by 5",
+    "picture": "images/4.png",
+    "value": 4
+  }
+]
