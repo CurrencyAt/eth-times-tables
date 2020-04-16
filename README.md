@@ -34,6 +34,11 @@ As shown in the pet shop tutorial, we iterate through all of the questions and m
 
 ![screen1](/readmefiles/4.png)
 
+We can see contract creation/migration and block mining in the Ganache blockchain explorer:
+
+![screen1](/readmefiles/g1.png)
+![screen1](/readmefiles/g2.png)
+
 
 
 
