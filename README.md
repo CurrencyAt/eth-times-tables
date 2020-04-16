@@ -13,6 +13,8 @@ The User is presented with questions established in the web application, with an
 
 ![screen1](/readmefiles/1.png)
 
+![screen1](/readmefiles/2.png)
+
 ![screen1](/readmefiles/5.png)
 
 Once the user submits an answer, Metamask or other wallet should be engaged.
@@ -32,7 +34,6 @@ As shown in the pet shop tutorial, we iterate through all of the questions and m
 
 ![screen1](/readmefiles/4.png)
 
-![screen1](/readmefiles/2.png)
 
 
 
