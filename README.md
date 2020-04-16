@@ -22,7 +22,7 @@ Once the user submits an answer, Metamask or other wallet should be engaged.
 
 The user's answer is contained in the transaction, and will only return an address.  So, we need to .call the getMathProblems function exposed in the contract interface.
 
-This will return 3 arrays (we could have used a Structure), which we can then parse in Javascript that we need to be sure to use the .toDecimal function from web3 to parse the users answers and whether it was correct.
+This will return 3 arrays (we could have used a Structure), which we can then parse in Javascript. Note that we need to be sure to use the .toDecimal function from web3 to parse the users answer, and whether it was correct.
 
 ![screen1](/readmefiles/6.png)
 
