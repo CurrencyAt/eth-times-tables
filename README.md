@@ -11,12 +11,12 @@ User presented with questions established in the web application, with answers h
 
 ![screen1](/readmefiles/5.png)
 
-Once user submits an answer, Metamask or other wallet should be engaged.
+Once the user submits an answer, Metamask or other wallet should be engaged.
 
 ![screen1](/readmefiles/3.png)
 
 
-The user's answers is the transaction, and will only return an address.  So, we need to .call the getMathProblems function exposed in the contract interface.
+The user's answer is contained in the transaction, and will only return an address.  So, we need to .call the getMathProblems function exposed in the contract interface.
 
 This will return 3 arrays (we could have used a Structure), which we can then parse in Javascript that we need to be sure to use the .toDecimal function from web3 to parse the users answers and whether it was correct.
 
